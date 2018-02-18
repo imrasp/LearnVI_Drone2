@@ -21,9 +21,6 @@ mavlink_control
 
 cmake-build-debug/
 .idea/
-cpr/
-json/
-mavlink/include/mavlink/
 
 
 
