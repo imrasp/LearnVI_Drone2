@@ -1,0 +1,9 @@
+[submodule "mavlink/include/mavlink/v1.0"]
+	path = mavlink/include/mavlink/v1.0
+	url = git://github.com/mavlink/c_library.git
+[submodule "cpr"]
+	path = cpr
+	url = https://github.com/whoshuu/cpr.git
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json.git
